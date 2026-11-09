@@ -1,0 +1,4 @@
+interface:
+  display_name: "Develop Foundation Feature"
+  short_description: "Build Unity features on Game Foundation"
+  default_prompt: "Use $develop-foundation-feature to implement this Unity feature on Game Foundation."

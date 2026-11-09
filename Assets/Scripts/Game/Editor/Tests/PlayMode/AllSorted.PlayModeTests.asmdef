@@ -1,0 +1,16 @@
+{
+  "name": "AllSorted.PlayModeTests",
+  "rootNamespace": "AllSorted.PlayTests",
+  "references": [
+    "AllSorted.Game",
+    "QFramework",
+    "GameFoundation.UI",
+    "UnityEngine.UI",
+    "GameFoundation.Core",
+    "GameFoundation.Save"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

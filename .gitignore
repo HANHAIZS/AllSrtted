@@ -1,0 +1,47 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+crashlytics-build.properties
+artifacts/
+TestResults/
+__pycache__/
+*.py[cod]
+
+# Unity Package Manager reserves Samples~; keep it despite common global *~ rules.
+!Packages/com.nn555k.gamefoundation.*/Samples~/
+!Packages/com.nn555k.gamefoundation.*/Samples~/**
+
+# Setup ships non-imported governance sources from Templates~.
+!Packages/com.nn555k.gamefoundation.setup/Templates~/
+!Packages/com.nn555k.gamefoundation.setup/Templates~/**
+
+# macOS Finder metadata
+.DS_Store
+
+# Unity Test Runner's temporary bootstrap scenes
+/Assets/InitTestScene[0-9]*.unity
+/Assets/InitTestScene[0-9]*.unity.meta
+
+# Blender's rotating save backups
+*.blend[0-9]*

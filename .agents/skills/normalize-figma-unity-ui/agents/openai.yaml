@@ -1,0 +1,4 @@
+interface:
+  display_name: "Normalize Figma Unity UI"
+  short_description: "Normalize Figma imports into valid Unity prefabs"
+  default_prompt: "Use $normalize-figma-unity-ui to restructure and validate this Figma-imported Unity UI prefab."

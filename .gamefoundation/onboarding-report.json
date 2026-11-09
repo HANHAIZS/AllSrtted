@@ -1,0 +1,33 @@
+{
+    "projectName": "AllSorted",
+    "stage": "verified",
+    "localReady": true,
+    "checks": [
+        {
+            "name": "yooasset",
+            "status": "ready",
+            "detail": "Collector/Builder layouts ready; visible packages: DefaultPackage"
+        },
+        {
+            "name": "uiProfile",
+            "status": "ready",
+            "detail": "Assets/Settings/GameFoundation/AllSortedUiPrefabConvention.asset"
+        },
+        {
+            "name": "compiledArchitecture",
+            "status": "ready",
+            "detail": "AllSorted.AllSortedApp"
+        },
+        {
+            "name": "compiledController",
+            "status": "ready",
+            "detail": "AllSorted.AllSortedController"
+        }
+    ],
+    "manualConfiguration": [
+        "Design import tools are external to Foundation; developers integrate and validate them separately when needed.",
+        "CDN/Host mode and release asset bundles: project-specific; runtime keeps its safe NoOp backend until injected.",
+        "SDK keys, consent policy and device verification: configure when a vendor is selected.",
+        "Actual content assets and production prefabs: add to the configured project directories before content builds."
+    ]
+}

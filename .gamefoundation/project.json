@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "generatedByVersion": "0.7.0",
+    "projectName": "AllSorted",
+    "rootNamespace": "AllSorted",
+    "codeRoot": "Assets/Scripts/Game",
+    "architectureFile": "Assets/Scripts/Game/Architecture/AllSortedApp.cs",
+    "integrationMode": "generated",
+    "architectureType": "AllSorted.AllSortedApp",
+    "controllerFile": "Assets/Scripts/Game/Architecture/AllSortedController.cs",
+    "controllerType": "AllSorted.AllSortedController",
+    "uiConventionProfile": "Assets/Settings/GameFoundation/AllSortedUiPrefabConvention.asset",
+    "contentPackageName": "DefaultPackage",
+    "contentRoot": "Assets/GameContent"
+}

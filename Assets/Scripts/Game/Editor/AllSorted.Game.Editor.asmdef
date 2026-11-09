@@ -1,0 +1,17 @@
+{
+  "name": "AllSorted.Game.Editor",
+  "rootNamespace": "AllSorted.Editor",
+  "references": [
+    "AllSorted.Game",
+    "QFramework",
+    "GameFoundation.Core",
+    "GameFoundation.UI",
+    "UnityEngine.UI",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

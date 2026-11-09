@@ -1,0 +1,23 @@
+{
+  "name": "AllSorted.Tests",
+  "rootNamespace": "AllSorted.Tests",
+  "references": [
+    "AllSorted.Game",
+    "AllSorted.Game.Editor",
+    "QFramework",
+    "GameFoundation.UI",
+    "GameFoundation.UI.Editor",
+    "UnityEngine.UI",
+    "GameFoundation.Core",
+    "GameFoundation.Save",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

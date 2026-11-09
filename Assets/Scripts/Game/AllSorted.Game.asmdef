@@ -1,0 +1,14 @@
+{
+    "name": "AllSorted.Game",
+    "rootNamespace": "AllSorted",
+    "references": [
+        "QFramework",
+        "GameFoundation.Core",
+        "GameFoundation.Save",
+        "GameFoundation.HotUpdate",
+        "GameFoundation.Sdk",
+        "GameFoundation.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": true
+}
